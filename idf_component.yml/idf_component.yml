@@ -1,0 +1,6 @@
+version: "0.0.1"
+description: "Authorized bug bounty test component for README rendering (L5)"
+url: "https://github.com/valak307/readme-xss-test"
+license: "MIT"
+targets:
+  - esp32
